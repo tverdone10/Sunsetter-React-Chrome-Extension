@@ -33,6 +33,10 @@ module.exports = {
 			patterns: [
 				{ from: "public" },
 				{ from: "src/sunset128.png", to: "sunset128.png" },
+				{
+					from: "src/getWeatherApi.js",
+					to: "getWeatherApi.js",
+				},
 			],
 		}),
 	],

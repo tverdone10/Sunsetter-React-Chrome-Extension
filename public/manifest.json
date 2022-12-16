@@ -8,5 +8,8 @@
     },
     "icons": {
         "128": "sunset128.png"
+    },
+    "background": {
+        "service_worker": "getWeatherApi.js"
     }
 }
